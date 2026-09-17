@@ -33,7 +33,8 @@ function updateCounter(_count: number): void {
 
   // TODO: mostrar el número de juegos en el elemento #count.
   // Asigná el valor a el.textContent como string.
-  el.textContent = gamesList.filterByGenre(el.textContent).length.toString();
+ // el.textContent = gamesList.filterByGenre(el.textContent).length.toString();
+ el.textContent = _count.toString();
 }
 
 function getGenres(): string[] {
