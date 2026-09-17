@@ -29,10 +29,11 @@ A platformer is a genre where the player controls a character jumping and climbi
 - Super Mario Bros
 
 ## Puzzle
-
+Puzzle video games make up a broad genre of video games that emphasize puzzle solving. The types of puzzles can test problem-solving skills, including logic, pattern recognition, sequence solving, spatial recognition, and word completion
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_video_game)
 <!-- Agregar descripción del género y link a Wikipedia -->
 
-- Tetris
+[Tetris](./puzzle/tetris.md)
 
 ## Sandbox
 
